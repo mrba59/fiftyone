@@ -4,8 +4,9 @@ import os
 import fiftyone.zoo as foz
 import pandas as pd
 import json
+from argparse import ArgumentParser
 
-# The directory containing the dataset to import
+
 
 def view_fo_args():
     parser = ArgumentParser()
