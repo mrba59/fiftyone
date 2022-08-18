@@ -1,0 +1,11 @@
+len images in azure : 248366 
+len images in FiftyOne : 248384 
+len of intersection 248365 
+
+difference images 
+{'6d5b47aaea99ff74', '6d5f424b3042dfdc', '6d5e6b42a901e7aa', '6d5db3178a9a92c5', '6d5d643268a87b09', '6d5964efee1c2c16', '6d5bd2e18cb15a10', '6d5c800cb4473614', '6d59d0ef5e24b7ed', '6d5da887b486774a', '6d5b9c213be2522b', '6d5f3b913895b7a2', '6d5c664c82b08d5a', '6d5da91db3fc430d', '6d5e5127da1bcfa4', '6d5bffacb36fcd45', '6d5e18cc1eec7a63', '6d5a19032e792500', '6d5c921268df0eed'}
+
+{'6d5e18cc1eec7a63', '6d5db3178a9a92c5', '6d5da887b486774a', '6d5c664c82b08d5a', '6d5e6b42a901e7aa', '6d5c800cb4473614', '6d5a19032e792500', '6d5da91db3fc430d', '6d5e5127da1bcfa4', '6d5b47aaea99ff74', '6d5b9c213be2522b', '6d5f3b913895b7a2', '6d5964efee1c2c16', '6d5d643268a87b09', '6d5f424b3042dfdc', '6d5bd2e18cb15a10', '6d5bffacb36fcd45', '6d59d0ef5e24b7ed', '6d5c921268df0eed'}
+
+
+len images in fiftyone annotation 248384
